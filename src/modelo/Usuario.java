@@ -11,6 +11,7 @@ public class Usuario {
     private String situaciónLaboral;
     private String sexo;
     private String otros;
+    private String email;
 
     public Usuario(String usuario, String password) {
         this.usuario = usuario;
